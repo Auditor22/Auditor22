@@ -1,74 +1,29 @@
 
-<h1 align="center"><project-name></h1>
+<h1 align="center">Hi 👋. Auditor</h1>
+<h3 align="center">A passionate frontend developer from India.</h3>
 
-<p align="center"><project-description></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=auditor22&label=Profile%20views&color=0e75b6&style=flat" alt="auditor22" /> </p>
 
-## Links
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auditor22" alt="auditor22" /></a> </p>
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
+<p align="left"> <a href="https://twitter.com/@auditor22k" target="blank"><img src="https://img.shields.io/twitter/follow/@auditor22k?logo=twitter&style=for-the-badge" alt="@auditor22k" /></a> </p>
 
-- [Live](<Homepage url> "Live View")
+- 🌱 I’m currently learning **JS**
 
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
+- 💬 Ask me about **C , Python and C++**
 
-- [API](<API Link> "API")
+- 📫 How to reach me **auditor22.2k24@gmail.com**
 
-## Screenshots
+- ⚡ Fun fact **AI can't replace us .**
 
-![Home Page](/screenshots/1.png "Home Page")
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@auditor22k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@auditor22k" height="30" width="40" /></a>
+</p>
 
-![](/screenshots/2.png)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![](/screenshots/3.png)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=auditor22&show_icons=true&locale=en" alt="auditor22" /></p>
 
-## Available Commands
-
-In the project directory, you can run:
-
-### `npm start" : "react-scripts start"`,
-
-The app is built using `create-react-app` so this command Runs the app in Development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. You also need to run the server file as well to completely run the app. The page will reload if you make edits.
-You will also see any lint errors in the console.
-
-### `"npm run build": "react-scripts build"`,
-
-Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app will be ready to deploy!
-
-### `"npm run test": "react-scripts test"`,
-
-Launches the test runner in the interactive watch mode.
-
-### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
-
-For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
-
-### `"serve": "node server"`
-
-For running the server file on you can use this command.
-
-### `npm run serve`
-
-## Built With
-
-- JavaScript
-- Node
-- NPM
-- Webpack
-- HTML
-- CSS
-
-## Future Updates
-
-- [ ] Reliable Storage
-
-
-## 🤝 Support
-
-Contributions, issues, and feature requests are welcome!
-
-Give a ⭐️ if you like this project!
-
-<!---
-Auditor22/Auditor22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=auditor22&" alt="auditor22" /></p>
